@@ -28,12 +28,11 @@ A simple and interactive Resume (CV) Generator built using **React.js**. Users c
 ## 📸 Screenshots
 
 
-> Home Page  
-> ![Home Screenshot](C:\Users\samee\OneDrive\ドキュメント\Clone Projects\CV-Generator\public\screenshot\home.png)
+### 🏠 Home Page
+![Home Screenshot](./public/screenshots/home.png)
 
-> Resume Preview  
-> ![Preview Screenshot](C:\Users\samee\OneDrive\ドキュメント\Clone Projects\CV-Generator\public\screenshot\preview.png)
-
+### 📄 Resume Preview
+![Preview Screenshot](./public/screenshots/preview.png)
 ---
 
 ## 🔧 Installation
