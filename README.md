@@ -29,10 +29,10 @@ A simple and interactive Resume (CV) Generator built using **React.js**. Users c
 
 
 ### 🏠 Home Page
-![Home Screenshot](./public/screenshots/home.png)
+![Home Screenshot](./public/screenshot/home.png)
 
 ### 📄 Resume Preview
-![Preview Screenshot](./public/screenshots/preview.png)
+![Preview Screenshot](./public/screenshot/preview.png)
 ---
 
 ## 🔧 Installation
