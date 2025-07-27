@@ -1,8 +1,45 @@
-# React + Vite
+# 📝 Resume Maker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Resume (CV) Generator built using **React.js**. Users can enter personal details, education, experience, and skills to instantly preview and download a beautiful resume.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🧑‍💼 Personal details input
+- 🎓 Education history
+- 💼 Work experience
+- 💡 Skills listing
+- 📄 Live preview
+- 📥 Download as PDF (coming soon / implemented)
+- 💾 Data persistence (optional: localStorage)
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- HTML & CSS (Flexbox/Grid)
+- JavaScript (ES6+)
+- [Add any library you used like react-to-print, react-router-dom, etc.]
+
+---
+
+## 📸 Screenshots
+
+
+> Home Page  
+> ![Home Screenshot](C:\Users\samee\OneDrive\ドキュメント\Clone Projects\CV-Generator\public\screenshot\home.png)
+
+> Resume Preview  
+> ![Preview Screenshot](C:\Users\samee\OneDrive\ドキュメント\Clone Projects\CV-Generator\public\screenshot\preview.png)
+
+---
+
+## 🔧 Installation
+
+```bash
+git clone https://github.com/yourusername/resume-maker.git
+cd resume-maker
+npm install
+npm run dev  
