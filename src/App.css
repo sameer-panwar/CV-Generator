@@ -1,5 +1,41 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+/* Ensure text doesn't overflow containers */
+.break-words {
+  word-wrap: break-word;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Handle long URLs and text */
+.break-all {
+  word-break: break-all;
+}
+
+/* Ensure list items don't overflow */
+.list-disc li {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Prevent horizontal overflow */
+.overflow-hidden {
+  overflow: hidden;
+}
+
+/* Ensure flex items don't overflow */
+.flex-1 {
+  min-width: 0;
+}
+
+/* Handle long text in containers */
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
