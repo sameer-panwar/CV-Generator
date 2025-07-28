@@ -6,9 +6,8 @@ A simple and interactive Resume (CV) Generator built using **React.js**. Users c
 
 ## 🚀 Features
 
-- 🧑‍💼 Personal details input
-- 🎓 Education history
-- 💼 Work experience
+- 🧑‍💼 Details input
+- 🎓 Variety of resume template
 - 💡 Skills listing
 - 📄 Live preview
 - 📥 Download as PDF (coming soon / implemented)
@@ -19,9 +18,7 @@ A simple and interactive Resume (CV) Generator built using **React.js**. Users c
 ## 🛠️ Tech Stack
 
 - React.js
-- HTML & CSS (Flexbox/Grid)
-- JavaScript (ES6+)
-- [Add any library you used like react-to-print, react-router-dom, etc.]
+- Tailwind css
 
 ---
 
